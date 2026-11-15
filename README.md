@@ -1,3 +1,29 @@
+# browser-harness
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+让 Claude Code、Codex、Cursor 使用你已登录的真实 Chrome 浏览器。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <img src="https://raw.githubusercontent.com/browser-use/media/main/browser-harness/banner-ink.svg" alt="Browser Harness" width="100%" />
 
 > [!NOTE]
